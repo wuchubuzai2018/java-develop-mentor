@@ -23,4 +23,4 @@
 
 [1、软件开发解惑系列之一：项目中遇到的那些外包/驻场的概念](https://github.com/wuchubuzai2018/java-develop-mentor/blob/main/1.%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E8%A7%A3%E6%83%91%E7%B3%BB%E5%88%97/1.%E6%89%AB%E7%9B%B2%E4%B8%80%E4%B8%8B%E9%A1%B9%E7%9B%AE%E4%B8%AD%E9%A9%BB%E5%9C%BA:%E5%A4%96%E5%8C%85%E8%BF%99%E4%BA%9B%E6%A6%82%E5%BF%B5.md)
 
-[2、软件开发解惑系列之二：公司没提升总是在打杂，裸辞后收到外包工作怎么样](./1.扫盲一下项目中驻场/外包这些概念.md)
+[2、软件开发解惑系列之二：公司没提升总是在打杂，裸辞后收到外包工作怎么样](https://github.com/wuchubuzai2018/java-develop-mentor/blob/main/1.%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E8%A7%A3%E6%83%91%E7%B3%BB%E5%88%97/2.%E5%85%AC%E5%8F%B8%E6%B2%A1%E6%8F%90%E5%8D%87%E6%80%BB%E6%98%AF%E6%89%93%E6%9D%82%EF%BC%8C%E8%A3%B8%E8%BE%9E%E5%90%8E%E6%94%B6%E5%88%B0%E5%A4%96%E5%8C%85%EF%BC%8C%E6%80%8E%E4%B9%88%E6%A0%B7.md)
